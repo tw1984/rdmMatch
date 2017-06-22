@@ -1,6 +1,5 @@
 [CmdletBinding()]
 param (
-    # Parameter help description
     [Parameter(Mandatory = $true)]
     [String]$ComputerName
 )
